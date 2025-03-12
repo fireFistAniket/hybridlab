@@ -46,12 +46,12 @@ export default function AboutHybridLab() {
           </h2>
           <p className="text-base text-white/60 text-center lg:text-left">
             Our mission at Hybrid Lab is to provide a comprehensive, online
-            fitness platformthat caters to the varied needs of athletes. Whether
+            fitness platform that caters to the varied needs of athletes. Whether
             your goal is to lift heavy weights, build muscle, run long
-            distances, or excel in endurance sports, we offertailored training
+            distances, or excel in endurance sports, we offer tailored training
             programs and nutritional guidance to support your journey.
-            Byintegrating cutting-edge technology with expert knowledge, we
-            deliverpersonalized experiences that help athletes of all levels
+            By integrating cutting-edge technology with expert knowledge, we
+            deliver personalized experiences that help athletes of all levels
             reach their full potential.
           </p>
         </div>

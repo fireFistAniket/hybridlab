@@ -39,7 +39,7 @@ export default function ProgramGraphics({
         className="hidden lg:inline-flex gap-3 items-center text-white hover:text-site-main-color font-semibold font-pilat tracking-[0.02em] text-base"
       >
         <FaArrowLeftLong />
-        <span>Back to Online Program Page</span>
+        <span>Back to Online Programs Page</span>
       </Link>
       <Carousel className="max-w-[40vmax]">
         <CarouselContent className="">
@@ -101,7 +101,7 @@ export default function ProgramGraphics({
         </div>
 
         <Button className="bg-site-main-color text-[#1e1e1e] font-bold text-xs lg:text-base py-2 lg:py-6 px-6 lg:px-8 font-pilat capitalize transition-transform hover:scale-[1.05] duration-300 text-center whitespace-nowrap lg:self-start rounded-none">
-          Buy Now
+          Join Us
         </Button>
       </div>
       {/* {showVideoModal && (

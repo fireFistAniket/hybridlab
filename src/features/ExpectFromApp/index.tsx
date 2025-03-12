@@ -6,12 +6,12 @@ export default function ExpectFromApp() {
     {
       id: 1,
       title: "10 + Programs",
-      description: `Select one of our programs and follow apersonalized training plan tailored to your goals. Our plans are simple to follow and adaptable, allowing you to train at home or in the gym, swap exercises, and adjust session days to fit your schedule.`,
+      description: `Select one of our programs and follow a personalized training plan tailored to your goals. Our plans are simple to follow and adaptable, allowing you to train at home or in the gym, swap exercises, and adjust session days to fit your schedule.`,
       img: "/extra/app-mockup-right.png",
     },
     {
       id: 2,
-      title: "Nutrition that works",
+      title: "Nutrition That Works",
       description: `Discover dietitian-crafted meal guides tailored to your goals and preferences. Enjoy access to a recipe library with over 1,500 nutritious options, allowing you to savor the foods you love while staying on track with your goals.`,
       img: "/extra/app-mockup-center.png",
     },

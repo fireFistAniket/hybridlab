@@ -5,7 +5,7 @@ export default function HomeNeutrition() {
   const nutrition = [
     {
       id: 1,
-      title: "waldrof chicken salad",
+      title: "waldorf chicken salad",
       cover: {
         src: "/nutrition/waldrof-chicken-salad.png",
         alt: "waldrof-chicken-salad",

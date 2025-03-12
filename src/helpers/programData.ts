@@ -30,26 +30,26 @@ const programData = [
         details: [
           {
             title: "PROVEN TRAINING PLAN",
-            content: `<p><span style="color: #FFDE59">&#10004;</span> A structured, easy-to-follow 8 or 12-week schedule</p><br/>
-        <p><span style="color: #FFDE59">&#10004;</span> 4-5 weekly runs to improve endurance, speed & pacing</p><br/>
-        <p><span style="color: #FFDE59">&#10004;</span> Strength & functional workouts for sled push, burpees, wall balls & rowing</p><br/>`,
+            content: `<p><span style="color: #FFDE59">&#10004;</span> A structured, easy-to-follow 8 or 12-week schedule.</p><br/>
+        <p><span style="color: #FFDE59">&#10004;</span> 4-5 weekly runs to improve endurance, speed & pacing.</p><br/>
+        <p><span style="color: #FFDE59">&#10004;</span> Strength & functional workouts for sled push, burpees, wall balls & rowing.</p><br/>`,
           },
           {
             title: "RUNNING PERFORMANCE BREAKDOWN",
-            content: `<p><span style="color: #FFDE59">&#10004;</span> Cadence & pacing strategies for race-day efficiency</p><br/>
-        <p><span style="color: #FFDE59">&#10004;</span> Heart rate zones & intensity targets for endurance and power</p><br/>
-        <p><span style="color: #FFDE59">&#10004;</span> Aerobic, threshold & sprint workouts tailored for Hyrox</p><br/>`,
+            content: `<p><span style="color: #FFDE59">&#10004;</span> Cadence & pacing strategies for race-day efficiency.</p><br/>
+        <p><span style="color: #FFDE59">&#10004;</span> Heart rate zones & intensity targets for endurance and power.</p><br/>
+        <p><span style="color: #FFDE59">&#10004;</span> Aerobic, threshold & sprint workouts tailored for Hyrox.</p><br/>`,
           },
           {
             title: "HYROX-SPECIFIC WORKOUTS",
-            content: `<p><span style="color: #FFDE59">&#10004;</span> Hyrox-style strength training to master all 8 race stations</p><br/>
-        <p><span style="color: #FFDE59">&#10004;</span> Functional endurance workouts to increase stamina and muscular endurance</p><br/>
-        <p><span style="color: #FFDE59">&#10004;</span> Full race simulation days to perfect transitions and pacing</p><br/>`,
+            content: `<p><span style="color: #FFDE59">&#10004;</span> Hyrox-style strength training to master all 8 race stations.</p><br/>
+        <p><span style="color: #FFDE59">&#10004;</span> Functional endurance workouts to increase stamina and muscular endurance.</p><br/>
+        <p><span style="color: #FFDE59">&#10004;</span> Full race simulation days to perfect transitions and pacing.</p><br/>`,
           },
           {
             title: "TAPER & RACE STRATEGY",
-            content: `<p><span style="color: #FFDE59">&#10004;</span> Learn how to peak at the right time for optimal race-day performance</p><br/>
-        <p><span style="color: #FFDE59">&#10004;</span> Pre-race nutrition, hydration & recovery guide include</p><br/>`,
+            content: `<p><span style="color: #FFDE59">&#10004;</span> Learn how to peak at the right time for optimal race-day performance.</p><br/>
+        <p><span style="color: #FFDE59">&#10004;</span> Pre-race nutrition, hydration & recovery guide include.</p><br/>`,
           },
         ],
       },
@@ -62,9 +62,9 @@ const programData = [
       },
       {
         heading: `WHY THIS PROGRAM WORKS`,
-        details: `<p><span style="color: #FFDE59">&#10004;</span> Designed by expert coaches & Hyrox athletes</p><br/>
-        <p><span style="color: #FFDE59">&#10004;</span> Built for progressive improvement & peak performance</p><br/>
-        <p><span style="color: #FFDE59">&#10004;</span> Used by top-tier competitors & first-time racers</p><br/>
+        details: `<p><span style="color: #FFDE59">&#10004;</span> Designed by expert coaches & Hyrox athletes.</p><br/>
+        <p><span style="color: #FFDE59">&#10004;</span> Built for progressive improvement & peak performance.</p><br/>
+        <p><span style="color: #FFDE59">&#10004;</span> Used by top-tier competitors & first-time racers.</p><br/>
         `,
       },
       {
@@ -132,54 +132,54 @@ const programData = [
           {
             title: `Monday (BUILD) - Lower Body (Glutes & Hamstrings)`,
             content: `
-            <p><span style="color: #FFDE59">&#10004;</span> Heavy compound lifts to build posterior chain strength</p><br/>
-        <p><span style="color: #FFDE59">&#10004;</span> Accessory work to enhance glute & hamstring hypertrophy</p><br/>
+            <p><span style="color: #FFDE59">&#10004;</span> Heavy compound lifts to build posterior chain strength.</p><br/>
+        <p><span style="color: #FFDE59">&#10004;</span> Accessory work to enhance glute & hamstring hypertrophy.</p><br/>
             `,
           },
           {
             title: `Tuesday (BUILD) - Upper Body (Horizontal Push & Pull)`,
             content: `
-        <p><span style="color: #FFDE59">&#10004;</span> Focus on bench press, rows, dips & chest-supported pulls</p><br/>
-        <p><span style="color: #FFDE59">&#10004;</span> Strength and hypertrophy rep schemes</p><br/>
+        <p><span style="color: #FFDE59">&#10004;</span> Focus on bench press, rows, dips & chest-supported pulls.</p><br/>
+        <p><span style="color: #FFDE59">&#10004;</span> Strength and hypertrophy rep schemes.</p><br/>
             `,
           },
           {
             title: `Wednesday (SWEAT) - Full-Body Conditioning`,
             content: `
-        <p><span style="color: #FFDE59">&#10004;</span> High-intensity cardio & functional training</p><br/>
-        <p><span style="color: #FFDE59">&#10004;</span> Improves endurance, explosiveness, and work capacity</p><br/>
+        <p><span style="color: #FFDE59">&#10004;</span> High-intensity cardio & functional training.</p><br/>
+        <p><span style="color: #FFDE59">&#10004;</span> Improves endurance, explosiveness, and work capacity.</p><br/>
             `,
           },
           {
             title: `Thursday (BUILD) - Lower Body (Quads)`,
             content: `
-        <p><span style="color: #FFDE59">&#10004;</span> Focus on squats, lunges, and quad-dominant movements</p><br/>
-        <p><span style="color: #FFDE59">&#10004;</span> Unilateral & accessory work for knee stability and strength</p><br/>
+        <p><span style="color: #FFDE59">&#10004;</span> Focus on squats, lunges, and quad-dominant movements.</p><br/>
+        <p><span style="color: #FFDE59">&#10004;</span> Unilateral & accessory work for knee stability and strength.</p><br/>
             `,
           },
           {
             title: `Friday (BUILD) - Upper Body (Vertical Push & Pull)`,
             content: `
-        <p><span style="color: #FFDE59">&#10004;</span> Focus on overhead pressing, pull-ups, and traps</p><br/>
-        <p><span style="color: #FFDE59">&#10004;</span> Shoulder stability and strength-building accessory lifts</p><br/>
+        <p><span style="color: #FFDE59">&#10004;</span> Focus on overhead pressing, pull-ups, and traps.</p><br/>
+        <p><span style="color: #FFDE59">&#10004;</span> Shoulder stability and strength-building accessory lifts.</p><br/>
             `,
           },
         ],
       },
       {
         heading: `WHO IS THIS PROGRAM FOR?`,
-        details: `<p><span style="color: #FFDE59">&#10004;</span> Beginners & Intermediates looking for a structured strength plan</p><br/>
-        <p><span style="color: #FFDE59">&#10004;</span> Advanced Lifters wanting a balanced hypertrophy & strength approach</p><br/>
-        <p><span style="color: #FFDE59">&#10004;</span> Athletes & Functional Fitness Enthusiasts needing strength + conditioning</p><br/>
-        <p><span style="color: #FFDE59">&#10004;</span> Anyone looking to build muscle, get stronger & stay conditioned</p><br/>
+        details: `<p><span style="color: #FFDE59">&#10004;</span> Beginners & Intermediates looking for a structured strength plan.</p><br/>
+        <p><span style="color: #FFDE59">&#10004;</span> Advanced Lifters wanting a balanced hypertrophy & strength approach.</p><br/>
+        <p><span style="color: #FFDE59">&#10004;</span> Athletes & Functional Fitness Enthusiasts needing strength + conditioning.</p><br/>
+        <p><span style="color: #FFDE59">&#10004;</span> Anyone looking to build muscle, get stronger & stay conditioned.</p><br/>
         `,
       },
       {
         heading: `WHAT'S INCLUDED?`,
-        details: `<p><span style="color: #FFDE59">&#10004;</span> Full 12-Week Progressive Plan (2 Phases)</p><br/>
-        <p><span style="color: #FFDE59">&#10004;</span> Detailed Exercise Breakdown & Coaching Cues</p><br/>
-        <p><span style="color: #FFDE59">&#10004;</span> Progress Tracking & Load Progression Guidelines</p><br/>
-        <p><span style="color: #FFDE59">&#10004;</span> Additional Conditioning to aid with Performance</p><br/>
+        details: `<p><span style="color: #FFDE59">&#10004;</span> Full 12-Week Progressive Plan (2 Phases).</p><br/>
+        <p><span style="color: #FFDE59">&#10004;</span> Detailed Exercise Breakdown & Coaching Cues.</p><br/>
+        <p><span style="color: #FFDE59">&#10004;</span> Progress Tracking & Load Progression Guidelines.</p><br/>
+        <p><span style="color: #FFDE59">&#10004;</span> Additional Conditioning to aid with Performance.</p><br/>
         `,
       },
       {
@@ -233,20 +233,20 @@ const programData = [
       },
       {
         heading: `WHAT YOU'LL MASTER`,
-        details: `<p><span style="color: #FFDE59">&#10004;</span> <span style="font-weight: 700; font-size: 24px">Handstand & Inversion Training</span> - Build confidence, control, and balance</p><br/>
-        <p><span style="color: #FFDE59">&#10004;</span> <span style="font-weight: 700; font-size: 24px">Pull-Up & Muscle-Up Progressions</span> - Strengthen pulling mechanics for clean reps</p><br/>
-        <p><span style="color: #FFDE59">&#10004;</span> <span style="font-weight: 700; font-size: 24px">Dips & Push-Up Variations</span> - Develop pushing strength for advanced movements</p><br/>
-        <p><span style="color: #FFDE59">&#10004;</span> <span style="font-weight: 700; font-size: 24px">Explosive Lower-Body Plyometrics</span> - Increase power & athletic performance</p><br/>
-        <p><span style="color: #FFDE59">&#10004;</span> <span style="font-weight: 700; font-size: 24px">Mobility & Core Stability</span> - Improve movement efficiency & injury prevention</p><br/>
+        details: `<p><span style="color: #FFDE59">&#10004;</span> <span style="font-weight: 700; font-size: 24px">Handstand & Inversion Training</span> - Build confidence, control, and balance.</p><br/>
+        <p><span style="color: #FFDE59">&#10004;</span> <span style="font-weight: 700; font-size: 24px">Pull-Up & Muscle-Up Progressions</span> - Strengthen pulling mechanics for clean reps.</p><br/>
+        <p><span style="color: #FFDE59">&#10004;</span> <span style="font-weight: 700; font-size: 24px">Dips & Push-Up Variations</span> - Develop pushing strength for advanced movements.</p><br/>
+        <p><span style="color: #FFDE59">&#10004;</span> <span style="font-weight: 700; font-size: 24px">Explosive Lower-Body Plyometrics</span> - Increase power & athletic performance.</p><br/>
+        <p><span style="color: #FFDE59">&#10004;</span> <span style="font-weight: 700; font-size: 24px">Mobility & Core Stability</span> - Improve movement efficiency & injury prevention.</p><br/>
         `,
       },
       {
         heading: `WHAT'S INCLUDED?`,
         details: `
-        <p><span style="color: #FFDE59">&#10004;</span> <span style="font-size: 20px; font-weight: 700;">Full 12-Week Training Plan</span> - with clear progressions</p><br/>
-        <p><span style="color: #FFDE59">&#10004;</span> <span style="font-size: 20px; font-weight: 700;">Step-by-Step Skill Development</span> - for pull-ups, dips, and muscle-ups</p><br/>
-        <p><span style="color: #FFDE59">&#10004;</span> <span style="font-size: 20px; font-weight: 700;">Strength & Plyometric Workouts</span> - to enhance power & endurance</p><br/>
-        <p><span style="color: #FFDE59">&#10004;</span> <span style="font-size: 20px; font-weight: 700;">Guided Mobility & Recovery Drills</span> - for long-term progress</p><br/>
+        <p><span style="color: #FFDE59">&#10004;</span> <span style="font-size: 20px; font-weight: 700;">Full 12-Week Training Plan</span> - with clear progressions.</p><br/>
+        <p><span style="color: #FFDE59">&#10004;</span> <span style="font-size: 20px; font-weight: 700;">Step-by-Step Skill Development</span> - for pull-ups, dips, and muscle-ups.</p><br/>
+        <p><span style="color: #FFDE59">&#10004;</span> <span style="font-size: 20px; font-weight: 700;">Strength & Plyometric Workouts</span> - to enhance power & endurance.</p><br/>
+        <p><span style="color: #FFDE59">&#10004;</span> <span style="font-size: 20px; font-weight: 700;">Guided Mobility & Recovery Drills</span> - for long-term progress.</p><br/>
         `,
       },
       {
@@ -278,7 +278,7 @@ const programData = [
     title: `RUNNING PERFORMANCE PROGRAMS`,
     shortTitle: `RUNNING PROGRAM`,
     subTitle: `Crush Your Next Race - 10K | Half Marathon | Full Marathon`,
-    subPara: `Run Faster. Go Further. Train Smarter`,
+    subPara: `Run Faster. Go Further. Train Smarter.`,
     btnLink: `/program/running-performance-programs`,
     cover: `/programs/endurance/endurance-cover.png`,
     video: [
@@ -298,42 +298,42 @@ const programData = [
         details: [
           {
             title: "10K TRAINING PROGRAM (8-12 WEEKS)",
-            content: `<p><span style="color: #FFDE59">&#10004;</span> Perfect for beginners or those looking to improve their 10K time</p><br/>
-        <p><span style="color: #FFDE59">&#10004;</span> 4-5 runs per week including intervals, tempo runs & long runs</p><br/>
-        <p><span style="color: #FFDE59">&#10004;</span> Race-day strategy & pacing guide included</p><br/>`,
+            content: `<p><span style="color: #FFDE59">&#10004;</span> Perfect for beginners or those looking to improve their 10K time.</p><br/>
+        <p><span style="color: #FFDE59">&#10004;</span> 4-5 runs per week including intervals, tempo runs & long runs.</p><br/>
+        <p><span style="color: #FFDE59">&#10004;</span> Race-day strategy & pacing guide included.</p><br/>`,
           },
           {
             title: "HALF MARATHON TRAINING PROGRAM (12 WEEKS)",
-            content: `<p><span style="color: #FFDE59">&#10004;</span> Ideal for intermediate runners preparing for 21.1km</p><br/>
-        <p><span style="color: #FFDE59">&#10004;</span> Focus on building endurance, improving race pace & fueling strategies</p><br/>
-        <p><span style="color: #FFDE59">&#10004;</span> 5-6 runs per week including long runs, tempo runs & progression runs</p><br/>
-        <p><span style="color: #FFDE59">&#10004;</span> Heart rate-based training & threshold workouts to maximize efficiency</p><br/>`,
+            content: `<p><span style="color: #FFDE59">&#10004;</span> Ideal for intermediate runners preparing for 21.1km.</p><br/>
+        <p><span style="color: #FFDE59">&#10004;</span> Focus on building endurance, improving race pace & fueling strategies.</p><br/>
+        <p><span style="color: #FFDE59">&#10004;</span> 5-6 runs per week including long runs, tempo runs & progression runs.</p><br/>
+        <p><span style="color: #FFDE59">&#10004;</span> Heart rate-based training & threshold workouts to maximize efficiency.</p><br/>`,
           },
           {
             title: "FULL MARATHON TRAINING PROGRAM (16 WEEKS)",
-            content: `<p><span style="color: #FFDE59">&#10004;</span> For those ready to conquer 42.2km with confidence</p><br/>
-        <p><span style="color: #FFDE59">&#10004;</span> Advanced endurance-building workouts to handle the marathon distance</p><br/>
-        <p><span style="color: #FFDE59">&#10004;</span> 6 runs per week including long slow distance (LSD), tempo runs & interval training</p><br/>
-        <p><span style="color: #FFDE59">&#10004;</span> Race-day nutrition, pacing & mental preparation strategies</p><br/>`,
+            content: `<p><span style="color: #FFDE59">&#10004;</span> For those ready to conquer 42.2km with confidence.</p><br/>
+        <p><span style="color: #FFDE59">&#10004;</span> Advanced endurance-building workouts to handle the marathon distance.</p><br/>
+        <p><span style="color: #FFDE59">&#10004;</span> 6 runs per week including long slow distance (LSD), tempo runs & interval training.</p><br/>
+        <p><span style="color: #FFDE59">&#10004;</span> Race-day nutrition, pacing & mental preparation strategies.</p><br/>`,
           },
         ],
       },
       {
         heading: `WHAT'S INCLUDED?`,
         details: `
-        <p><span style="color: #FFDE59">&#10004;</span> <span style="font-size: 20px; font-weight: 700;">Complete Training Schedule</span> - Weekly breakdown of all workouts</p><br/>
-        <p><span style="color: #FFDE59">&#10004;</span> <span style="font-size: 20px; font-weight: 700;">Heart Rate & Pace Guidelines</span> - Train in the right zones for optimal progress</p><br/>
-        <p><span style="color: #FFDE59">&#10004;</span> <span style="font-size: 20px; font-weight: 700;">Speed & Endurance Workouts</span> - Improve your aerobic & anaerobic capacity</p><br/>
-        <p><span style="color: #FFDE59">&#10004;</span> <span style="font-size: 20px; font-weight: 700;">Strength & Mobility Work</span> - Prevent injuries & enhance performance</p><br/>
-        <p><span style="color: #FFDE59">&#10004;</span> <span style="font-size: 20px; font-weight: 700;">Taper & Race-Day Strategy</span> - Learn how to peak at the right time</p><br/>
+        <p><span style="color: #FFDE59">&#10004;</span> <span style="font-size: 20px; font-weight: 700;">Complete Training Schedule</span> - Weekly breakdown of all workouts.</p><br/>
+        <p><span style="color: #FFDE59">&#10004;</span> <span style="font-size: 20px; font-weight: 700;">Heart Rate & Pace Guidelines</span> - Train in the right zones for optimal progress.</p><br/>
+        <p><span style="color: #FFDE59">&#10004;</span> <span style="font-size: 20px; font-weight: 700;">Speed & Endurance Workouts</span> - Improve your aerobic & anaerobic capacity.</p><br/>
+        <p><span style="color: #FFDE59">&#10004;</span> <span style="font-size: 20px; font-weight: 700;">Strength & Mobility Work</span> - Prevent injuries & enhance performance.</p><br/>
+        <p><span style="color: #FFDE59">&#10004;</span> <span style="font-size: 20px; font-weight: 700;">Taper & Race-Day Strategy</span> - Learn how to peak at the right time.</p><br/>
         `,
       },
       {
         heading: `WHO IS THIS PROGRAM FOR?`,
         details: `
-        <p><span style="color: #FFDE59">&#10004;</span> <span style="font-size: 20px; font-weight: 700;">Beginners to advanced runners looking</span> - for a structured plan</p><br/>
-        <p style="font-size: 20px; font-weight: 700;"><span style="color: #FFDE59">&#10004;</span> Runners wanting to improve endurance, pace & race performance</p><br/>
-        <p style="font-size: 20px; font-weight: 700;"><span style="color: #FFDE59">&#10004;</span> Athletes training for their first race or aiming for a new PR</p><br/>
+        <p><span style="color: #FFDE59">&#10004;</span> <span style="font-size: 20px; font-weight: 700;">Beginners to advanced runners looking</span> - for a structured plan.</p><br/>
+        <p style="font-size: 20px; font-weight: 700;"><span style="color: #FFDE59">&#10004;</span> Runners wanting to improve endurance, pace & race performance.</p><br/>
+        <p style="font-size: 20px; font-weight: 700;"><span style="color: #FFDE59">&#10004;</span> Athletes training for their first race or aiming for a new PR.</p><br/>
         `,
       },
       {
@@ -420,9 +420,9 @@ const programData = [
     ],
   },
   {
-    title: `A WOD A DAY`,
+    title: `WOD A DAY`,
     shortTitle: `WOD A DAY PROGRAM`,
-    subTitle: `A wod a day - Functional Fitness, Every Day`,
+    subTitle: `Wod a day - Functional Fitness, Every Day.`,
     //   subPara: `Run Faster. Go Further. Train Smarter`,
     btnLink: `/program/wod-a-day-conditioning`,
     cover: `/programs/wod-a-day/wod-a-day-cover.png`,
@@ -448,10 +448,10 @@ const programData = [
     description: [
       {
         heading: `WHAT YOU GET?`,
-        details: `<p><span style="color: #FFDE59">&#10004;</span> <span style="font-size: 20px; font-weight: 700;">Daily Functional Workouts</span> - EMOMs, AMRAPs & Interval Training for non-stop progress</p><br/>
-        <p><span style="color: #FFDE59">&#10004;</span> <span style="font-size: 20px; font-weight: 700;">Strength & Conditioning Focus</span> - Build explosive power, endurance, and athleticism</p><br/>
-        <p><span style="color: #FFDE59">&#10004;</span> <span style="font-size: 20px; font-weight: 700;">No More Guesswork</span> - Structured, easy-to-follow programming to keep you on track</p><br/>
-        <p><span style="color: #FFDE59">&#10004;</span> <span style="font-size: 20px; font-weight: 700;">Train Anytime, Anywhere</span> - Designed for home or gym workouts with minimal equipment</p><br/>
+        details: `<p><span style="color: #FFDE59">&#10004;</span> <span style="font-size: 20px; font-weight: 700;">Daily Functional Workouts</span> - EMOMs, AMRAPs & Interval Training for non-stop progress.</p><br/>
+        <p><span style="color: #FFDE59">&#10004;</span> <span style="font-size: 20px; font-weight: 700;">Strength & Conditioning Focus</span> - Build explosive power, endurance, and athleticism.</p><br/>
+        <p><span style="color: #FFDE59">&#10004;</span> <span style="font-size: 20px; font-weight: 700;">No More Guesswork</span> - Structured, easy-to-follow programming to keep you on track.</p><br/>
+        <p><span style="color: #FFDE59">&#10004;</span> <span style="font-size: 20px; font-weight: 700;">Train Anytime, Anywhere</span> - Designed for home or gym workouts with minimal equipment.</p><br/>
         `,
       },
       {

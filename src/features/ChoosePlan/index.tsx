@@ -57,7 +57,7 @@ export default function ChoosePlan() {
           <span className="font-bold text-4xl lg:text-5xl">
             {annually ? "$249.99" : "$24.99"}/
           </span>
-          {annually ? "annum" : "monthly"}
+          {annually ? "annum" : "month"}
         </p>
         <div className="bg-black/40 w-full h-0.5"></div>
         <div className="flex flex-col gap-5">
@@ -69,13 +69,13 @@ export default function ChoosePlan() {
           </h2>
           <p className="text-black text-base xlg:text-lg tracking-[0.02em] inline-flex items-center gap-2 ps-4 lg:ps-8">
             Hybrid Running Program, Full body 5 Days and 3 Days split,
-            Hypertrophy Muscle Gain Program, Etc
+            Hypertrophy Muscle Gain Program, etc.
           </p>
           <h2 className="font-semibold text-black text-base xlg:text-lg tracking-[0.02em] inline-flex items-center gap-2">
-            <Check /> On demand recovery, Mobility, Pilates/yoga workouts
+            <Check /> On demand recovery, Mobility, Pilates/yoga workouts.
           </h2>
           <h2 className="font-semibold text-black text-base xlg:text-lg tracking-[0.02em] inline-flex items-center gap-2">
-            <Check /> Meal Recipes and Guides with over 100+ recipes
+            <Check /> Meal Recipes and Guides with over 100+ recipes.
           </h2>
         </div>
         <button
